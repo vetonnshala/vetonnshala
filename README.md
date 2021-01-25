@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning to become a Full-Stack Developer.
-- 🎓 &nbsp; Last Year Student doing Computer Engineering at Univeristy of Prishtina "Hasan Prishtina".
-- 💼 &nbsp; Front-End Developer || Android Developer.
+- 🎓 &nbsp; Senior student at the University of Prishtina, Faculty of Electrical and Computer Engineering, department of Computer Engineering.
+- 💼 &nbsp; Front-End Developer | Android Developer.
 - ✍️ &nbsp; Watching TV-Shows and trying out latest design trends as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
@@ -13,7 +13,7 @@
 - 💻 &nbsp; Java | PHP |
 - 🌐 &nbsp; Android | HTML | CSS / SASS | JavaScript | ReactJS |
 - 🔧 &nbsp; Visual Studio code | Android Studio |  Eclipse | Git |
-- 🖥 &nbsp; Adobe Xd | Figma | 
+- 🖥 &nbsp; Figma | Adope XD | 
 
 <br>
 
