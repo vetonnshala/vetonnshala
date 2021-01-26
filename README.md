@@ -10,8 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | JavaScript | ReactJS | HTML | CSS / SASS | JavaFX | Android  | PHP |
-- 🔧 &nbsp; Visual Studio Code | Android Studio |  Eclipse | Git | Visual Studio | 
-- 🖥 &nbsp; Figma | Adope XD | 
+- 🔧 &nbsp; Visual Studio Code | Android Studio |  Eclipse | Git | Visual Studio | Figma | Adope XD | 
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vetonnshala&show_icons=true&locale=en&layout=compact" alt="vetonnshala" /></p>
