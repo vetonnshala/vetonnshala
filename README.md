@@ -13,6 +13,8 @@
 - 🔧 &nbsp; Visual Studio Code | Android Studio |  Eclipse | Git | Visual Studio | 
 - 🖥 &nbsp; Figma | Adope XD | 
 
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vetonnshala&show_icons=true&locale=en&layout=compact" alt="vetonnshala" /></p>
 <br>
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
@@ -21,7 +23,6 @@
 <a href="https://instagram.com/https://www.instagram.com/vetonshala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vetonshala" height="30" width="40" /></a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vetonnshala&show_icons=true&locale=en&layout=compact" alt="vetonnshala" /></p>
 
 
 
