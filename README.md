@@ -22,7 +22,7 @@
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vetonnshala&show_icons=true&locale=en&layout=compact" alt="vetonnshala" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vetonnshala&show_icons=true&locale=en" alt="vetonnshala" /></p>
+
 
 
 
