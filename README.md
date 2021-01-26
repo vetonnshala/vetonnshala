@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | JavaFX | ReactJS | JavaScript | Android | HTML | CSS / SASS | PHP |
+- 💻 &nbsp; Java | JavaScript | React JS | HTML | CSS / SASS | JavaFX | Android | PHP |
 - 🔧 &nbsp; Visual Studio Code | Android Studio |  Eclipse | Git | Visual Studio | 
 - 🖥 &nbsp; Figma | Adope XD | 
 
