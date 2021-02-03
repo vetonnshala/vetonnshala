@@ -5,7 +5,6 @@
 
 - 🎓 &nbsp; A senior student at the University of Prishtina, Faculty of Electrical and Computer Engineering, Department of Computer Engineering.
 - 💼 &nbsp; Front-End Developer | Android Developer.
-- 🔭 &nbsp; I’m currently learning to become a Full-Stack Developer.
 
 <h3>🛠 Tech Stack</h3>
 
