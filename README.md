@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; An undergraduate student at the University of Prishtina, Faculty of Electrical and Computer Engineering, Department of Computer Engineering.
-  - 💼 &nbsp; Software Developer.
+  - 💼 &nbsp; Junior Software Developer.
 
 <h3>🛠 Tech Stack</h3>
 
